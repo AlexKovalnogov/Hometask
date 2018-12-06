@@ -33,12 +33,6 @@ public class Numbers {
         return Collections.max(tempArr);
     }
 
-    public static void main(String[] args) {
-
-
-    }
-
-
 }
 
 

@@ -25,8 +25,7 @@ Numbers numbers;
     }
 
     @Test
-    public void checkingMaxNumberFromPositivAndNegativePartition() {
-        assertEquals(10 ,numbers.getMaxNumber(-34,10,-5));
+    public void checkingMaxNumberFromPositivAndNegativePartition() { assertEquals(10 ,numbers.getMaxNumber(-34,10,-5));
     }
     @Test
     public void checkingMaxNumberFromTheSameNumbers() {

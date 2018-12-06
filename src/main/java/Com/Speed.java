@@ -74,11 +74,4 @@ public class Speed {
         return MaxValue;
 
     }
-    public static void main(String[] args) {
-        Speed maxSpeed = new Speed();
-        maxSpeed.compareDifferentSpeedsAndOutputBigger();
-
-    }
-
-
 }

@@ -32,10 +32,7 @@ public class HumanActions {
         }
         return action;
     }
-    public static void main(String[] args) {
-        HumanActions humanActions = new HumanActions();
-humanActions.checkCurrentActionDependOnHourOfDay();
-    }
+
 
 }
 
