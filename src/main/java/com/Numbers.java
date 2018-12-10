@@ -1,4 +1,4 @@
-package Com;
+package com;
 
 import com.sun.istack.internal.logging.Logger;
 
